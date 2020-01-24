@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Сергей Плякин](https://up.htmlacademy.ru/htmlcss/27/user/595629).
+* Наставник: [Ксения Григорьева](https://up.htmlacademy.ru/htmlcss/27/user/195458).
 
 ---
 
